@@ -1,4 +1,4 @@
 # androidNote
 
 ----------
-## [Animator](.\anim\animator.md) ##
+## [Animator](./anim/animator.md) ##
